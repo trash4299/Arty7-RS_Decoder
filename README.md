@@ -19,5 +19,6 @@
 		
 	+Tcl Console Method:
 	
-		~source C:/Users/vince/Downloads/Arty7-RS_Decoder-master/Arty7-RS_Decoder-master/RSdecoder/build.tcl
+		~source <location>
 		
+		~ex: source C:/Users/vince/Downloads/Arty7-RS_Decoder-master/Arty7-RS_Decoder-master/RSdecoder/build.tcl
